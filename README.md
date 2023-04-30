@@ -130,6 +130,6 @@ wrie HTML and CSS code for designing a book cover page and execute them.
 ## Output:
 ![OUTPUT](./out.png)
 ## HTML VALIDATOR
-![HTML_VALIDATOR](./covervalid.png)
+![HTML VALIDATOR](./covervalid.png)
 ## Result:
 the program for designing book cover page id executed sucessfully.
